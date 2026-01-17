@@ -1,0 +1,50 @@
+# Dependências
+node_modules/
+bower_components/
+vendor/
+
+# Build outputs
+dist/
+build/
+*.min.js
+*.min.css
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Ambientes
+.env
+.env.local
+.env.*.local
+.venv
+venv/
+ENV/
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testes
+coverage/
+.nyc_output/
+*.test.js.snap
+
+# Temporários
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Sistema
+Thumbs.db
+.cache/
