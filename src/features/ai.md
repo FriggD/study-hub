@@ -103,6 +103,8 @@ const aiSuggestion = {
 ### APIs e Modelos a Considerar
 
 #### TODO: Avaliar opções de LLM
+**Nota**: Modelos de IA evoluem rapidamente. Verificar opções mais recentes durante a implementação.
+
 - **OpenAI GPT-4**: Poderoso, mas pago
 - **Anthropic Claude**: Boa alternativa ao GPT-4
 - **Google Gemini**: Multimodal e competitivo

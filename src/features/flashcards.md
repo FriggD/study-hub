@@ -59,9 +59,11 @@ const deck = {
 
 ### Algoritmos de Repetição Espaçada
 
-#### TODO: Implementar algoritmo
-- **Leitner System**: Sistema simples de caixas
-- **SM-2 (SuperMemo 2)**: Algoritmo mais sofisticado
+#### TODO: Implementar algoritmo de repetição espaçada
+Escolher e implementar um dos seguintes algoritmos para otimizar a revisão de flashcards:
+
+- **Leitner System**: Sistema simples de caixas - mais fácil de implementar inicialmente
+- **SM-2 (SuperMemo 2)**: Algoritmo mais sofisticado com intervalos adaptativos
 - Considerar implementar ambos e permitir escolha do usuário
 
 ### Referências
